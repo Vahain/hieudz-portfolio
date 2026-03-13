@@ -3,7 +3,6 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 import CountUp from 'react-countup'
-import { useIntersectionObserver } from 'react-intersection-observer'
 import { BookOpen, Cpu, Globe, Wrench } from 'lucide-react'
 
 const stats = [
